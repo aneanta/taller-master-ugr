@@ -1,0 +1,10 @@
+Branch protection rules applied to main on my fork (GitHub Rulesets).
+Direct pushes to main are blocked. Evidence from attempted push:
+
+remote: error: GH013: Repository rule violations found for refs/heads/main.
+remote:
+remote: - Changes must be made through a pull request.
+remote:
+remote: ! [remote rejected] main -> main (push declined due to repository rule violations)
+
+Signed commits were enabled and tested using GPG.
