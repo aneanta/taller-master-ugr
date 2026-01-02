@@ -1,0 +1,3 @@
+Nombre: Ane Anta
+Lenguaje favorito: Ionic Angular 
+Por qué estoy aprendiendo Git: Para poder trabajar mejor en futuros proyectos 
